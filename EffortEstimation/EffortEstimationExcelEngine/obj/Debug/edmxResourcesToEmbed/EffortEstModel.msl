@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EffortEstModelStoreContainer" CdmEntityContainer="EffortEstEntities">
+    <FunctionImportMapping FunctionImportName="ActDec_18" FunctionName="EffortEstModel.Store.ActDec_18">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EffortEstModel.ActDec_18_Result">
+          <ScalarProperty Name="Effort11" ColumnName="Effort11" />
+          <ScalarProperty Name="blank" ColumnName="blank" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ActFeb_19" FunctionName="EffortEstModel.Store.ActFeb_19">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EffortEstModel.ActFeb_19_Result">
+          <ScalarProperty Name="Effort11" ColumnName="Effort11" />
+          <ScalarProperty Name="blank" ColumnName="blank" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ActJan_19" FunctionName="EffortEstModel.Store.ActJan_19">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EffortEstModel.ActJan_19_Result">
+          <ScalarProperty Name="Effort11" ColumnName="Effort11" />
+          <ScalarProperty Name="blank" ColumnName="blank" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ActMar_19" FunctionName="EffortEstModel.Store.ActMar_19">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EffortEstModel.ActMar_19_Result">
+          <ScalarProperty Name="Effort11" ColumnName="Effort11" />
+          <ScalarProperty Name="blank" ColumnName="blank" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ActNov_18" FunctionName="EffortEstModel.Store.ActNov_18">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EffortEstModel.ActNov_18_Result">
+          <ScalarProperty Name="Effort11" ColumnName="Effort11" />
+          <ScalarProperty Name="blank" ColumnName="blank" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ForcFeb_19" FunctionName="EffortEstModel.Store.ForcFeb_19" />
+    <FunctionImportMapping FunctionImportName="ForcJan_19" FunctionName="EffortEstModel.Store.ForcJan_19" />
+    <FunctionImportMapping FunctionImportName="ForcMar_19" FunctionName="EffortEstModel.Store.ForcMar_19" />
+    <FunctionImportMapping FunctionImportName="SummaryFA" FunctionName="EffortEstModel.Store.SummaryFA">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EffortEstModel.SummaryFA_Result">
+          <ScalarProperty Name="SalaryID" ColumnName="SalaryID" />
+          <ScalarProperty Name="Tribe" ColumnName="Tribe" />
+          <ScalarProperty Name="PRCode" ColumnName="PRCode" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ProjectName" ColumnName="ProjectName" />
+          <ScalarProperty Name="ProjectCostCentre" ColumnName="ProjectCostCentre" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

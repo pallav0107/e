@@ -1,0 +1,67 @@
+F:\WORK\PROJECTS\Wpf Excel App\EffortEstimationApp\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.dll
+F:\WORK\PROJECTS\Wpf Excel App\EffortEstimationApp\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.pdb
+F:\WORK\PROJECTS\Wpf Excel App\EffortEstimationApp\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.csproj.CoreCompileInputs.cache
+F:\WORK\PROJECTS\Wpf Excel App\EffortEstimationApp\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.dll
+F:\WORK\PROJECTS\Wpf Excel App\EffortEstimationApp\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.pdb
+D:\Krunal\DotNet\WPF\Wpf Excel App\Wpf Excel App\EffortEstimationApp\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.csprojResolveAssemblyReference.cache
+D:\Krunal\DotNet\WPF\Wpf Excel App\Wpf Excel App\EffortEstimationApp\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.dll
+D:\Krunal\DotNet\WPF\Wpf Excel App\Wpf Excel App\EffortEstimationApp\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.pdb
+D:\Krunal\DotNet\WPF\Wpf Excel App\Wpf Excel App\EffortEstimationApp\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.dll
+D:\Krunal\DotNet\WPF\Wpf Excel App\Wpf Excel App\EffortEstimationApp\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.pdb
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.dll
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.pdb
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.csprojResolveAssemblyReference.cache
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.dll
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.pdb
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.dll.config
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.dll
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.SqlServer.dll
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.xml
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.SqlServer.xml
+C:\edrive\EffortEst\EffortEstimation\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.dll
+C:\edrive\EffortEst\EffortEstimation\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.pdb
+C:\edrive\EffortEst\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.dll.config
+C:\edrive\EffortEst\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.dll
+C:\edrive\EffortEst\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.pdb
+C:\edrive\EffortEst\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.dll
+C:\edrive\EffortEst\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.SqlServer.dll
+C:\edrive\EffortEst\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.xml
+C:\edrive\EffortEst\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.SqlServer.xml
+C:\edrive\EffortEst\EffortEstimation\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.csprojResolveAssemblyReference.cache
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.dll.config
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.dll
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.pdb
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.dll
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.SqlServer.dll
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.xml
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.SqlServer.xml
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.dll
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.pdb
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\mscorlib.dll
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\System.Net.Http.dll
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\System.Net.Http.xml
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\normidna.nlp
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\normnfc.nlp
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\normnfd.nlp
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\normnfkc.nlp
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\normnfkd.nlp
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.csprojResolveAssemblyReference.cache
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.dll.config
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.dll
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.pdb
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.dll
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.SqlServer.dll
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.xml
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.SqlServer.xml
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.dll
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.pdb
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.csprojResolveAssemblyReference.cache
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.dll.config
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.dll
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EffortEstimationExcelEngine.pdb
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.dll
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.SqlServer.dll
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.xml
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\bin\Debug\EntityFramework.SqlServer.xml
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.dll
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimationExcelEngine\obj\Debug\EffortEstimationExcelEngine.pdb

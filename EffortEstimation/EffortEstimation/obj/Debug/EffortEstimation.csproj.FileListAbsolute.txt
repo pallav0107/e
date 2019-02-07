@@ -1,0 +1,138 @@
+C:\Users\L120385\source\repos\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.exe.config
+C:\Users\L120385\source\repos\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.exe
+C:\Users\L120385\source\repos\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.pdb
+C:\Users\L120385\source\repos\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.csprojAssemblyReference.cache
+C:\Users\L120385\source\repos\EffortEstimation\EffortEstimation\obj\Debug\MainWindow.g.cs
+C:\Users\L120385\source\repos\EffortEstimation\EffortEstimation\obj\Debug\App.g.cs
+C:\Users\L120385\source\repos\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation_MarkupCompile.cache
+C:\Users\L120385\source\repos\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation_MarkupCompile.lref
+C:\Users\L120385\source\repos\EffortEstimation\EffortEstimation\obj\Debug\MainWindow.baml
+C:\Users\L120385\source\repos\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.g.resources
+C:\Users\L120385\source\repos\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.Properties.Resources.resources
+C:\Users\L120385\source\repos\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.csproj.GenerateResource.cache
+C:\Users\L120385\source\repos\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.csproj.CoreCompileInputs.cache
+C:\Users\L120385\source\repos\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.exe
+C:\Users\L120385\source\repos\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.pdb
+H:\Desktop\eff\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.exe.config
+H:\Desktop\eff\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.exe
+H:\Desktop\eff\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.pdb
+H:\Desktop\eff\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.csprojAssemblyReference.cache
+H:\Desktop\eff\EffortEstimation\EffortEstimation\obj\Debug\MainWindow.g.cs
+H:\Desktop\eff\EffortEstimation\EffortEstimation\obj\Debug\App.g.cs
+H:\Desktop\eff\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation_MarkupCompile.cache
+H:\Desktop\eff\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation_MarkupCompile.lref
+H:\Desktop\eff\EffortEstimation\EffortEstimation\obj\Debug\MainWindow.baml
+H:\Desktop\eff\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.g.resources
+H:\Desktop\eff\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.Properties.Resources.resources
+H:\Desktop\eff\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.csproj.GenerateResource.cache
+H:\Desktop\eff\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.csproj.CoreCompileInputs.cache
+H:\Desktop\eff\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.exe
+H:\Desktop\eff\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.pdb
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.exe.config
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.exe
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.pdb
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.exe
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.pdb
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\obj\Debug\MainWindow.g.cs
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\obj\Debug\App.g.cs
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation_MarkupCompile.cache
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation_MarkupCompile.lref
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\obj\Debug\MainWindow.baml
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.g.resources
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.Properties.Resources.resources
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.csproj.GenerateResource.Cache
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimationExcelEngine.dll
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimationExcelEngine.pdb
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.csprojResolveAssemblyReference.cache
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.dll
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.xml
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.SqlServer.dll
+D:\Krunal\DotNet\WPF\EffortEstimation\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.SqlServer.xml
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.exe.config
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.exe
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.pdb
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.csprojResolveAssemblyReference.cache
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\obj\Debug\MainWindow.g.cs
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\obj\Debug\App.g.cs
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation_MarkupCompile.cache
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation_MarkupCompile.lref
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.exe
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.pdb
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimationExcelEngine.dll
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.dll
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.SqlServer.dll
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimationExcelEngine.pdb
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.xml
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.SqlServer.xml
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\obj\Debug\MainWindow.baml
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.g.resources
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.Properties.Resources.resources
+C:\edrive\EffortEst\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.csproj.GenerateResource.Cache
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.exe.config
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.exe
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.pdb
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.exe
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.pdb
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimationExcelEngine.dll
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.dll
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.SqlServer.dll
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\mscorlib.dll
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\System.Net.Http.dll
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimationExcelEngine.pdb
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.xml
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.SqlServer.xml
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\System.Net.Http.xml
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\normidna.nlp
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\normnfc.nlp
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\normnfd.nlp
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\normnfkc.nlp
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\normnfkd.nlp
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.csprojResolveAssemblyReference.cache
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\MainWindow.g.cs
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\App.g.cs
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation_MarkupCompile.cache
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation_MarkupCompile.lref
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\MainWindow.baml
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.g.resources
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.Properties.Resources.resources
+F:\Personal\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.csproj.GenerateResource.Cache
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.dll
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.SqlServer.dll
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.exe.config
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.exe
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.pdb
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimationExcelEngine.dll
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimationExcelEngine.pdb
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.xml
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.SqlServer.xml
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.csprojResolveAssemblyReference.cache
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\MainWindow.g.cs
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\App.g.cs
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation_MarkupCompile.cache
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation_MarkupCompile.lref
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\MainWindow.baml
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.g.resources
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.Properties.Resources.resources
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.csproj.GenerateResource.Cache
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.exe
+E:\WPF\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.pdb
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.exe.config
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.exe
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.pdb
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.exe
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimation.pdb
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimationExcelEngine.dll
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.dll
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.SqlServer.dll
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EffortEstimationExcelEngine.pdb
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.xml
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\bin\Debug\EntityFramework.SqlServer.xml
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.csprojResolveAssemblyReference.cache
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\MainWindow.g.cs
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\App.g.cs
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation_MarkupCompile.cache
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation_MarkupCompile.lref
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\MainWindow.baml
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.g.resources
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.Properties.Resources.resources
+C:\edrive\wpf\wpf code\wpf code\EffortEst-master\EffortEstimation\EffortEstimation\obj\Debug\EffortEstimation.csproj.GenerateResource.Cache

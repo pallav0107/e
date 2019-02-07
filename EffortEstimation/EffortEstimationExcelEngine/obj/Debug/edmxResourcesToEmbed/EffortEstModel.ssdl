@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EffortEstModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'EffortEst.dbo.Actuals' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="Actuals">
+          <Property Name="Project Name" Type="nvarchar" MaxLength="255" />
+          <Property Name="Project ID" Type="nvarchar" MaxLength="50" />
+          <Property Name="Project Cost Centre" Type="nvarchar" MaxLength="50" />
+          <Property Name="Payroll Cost Centre" Type="nvarchar" MaxLength="50" />
+          <Property Name="Manager" Type="nvarchar" MaxLength="50" />
+          <Property Name="Manager ID" Type="nvarchar" MaxLength="50" />
+          <Property Name="Resource Name" Type="nvarchar" MaxLength="50" />
+          <Property Name="Salary ID" Type="nvarchar" MaxLength="50" />
+          <Property Name="Resource Rate" Type="nvarchar" MaxLength="50" />
+          <Property Name="Date" Type="nvarchar" MaxLength="50" />
+          <Property Name="Hours Per Day Uncapped" Type="nvarchar" MaxLength="50" />
+          <Property Name="Hours Per Day Capped" Type="nvarchar" MaxLength="50" />
+          <Property Name="Hours per day Variance" Type="nvarchar" MaxLength="50" />
+          <Property Name="Daily Charge Uncapped" Type="nvarchar" MaxLength="50" />
+          <Property Name="Daily Charge Capped" Type="nvarchar" MaxLength="50" />
+          <Property Name="Approver" Type="nvarchar" MaxLength="50" />
+          <Property Name="Approver ID" Type="nvarchar" MaxLength="50" />
+        </EntityType>-->
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'EffortEst.dbo.Forecast' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="Forecast">
+          <Property Name="Salary ID" Type="nvarchar" MaxLength="50" />
+          <Property Name="Tribe" Type="nvarchar" MaxLength="50" />
+          <Property Name="PR Code" Type="nvarchar" MaxLength="50" />
+          <Property Name="Description" Type="nvarchar" MaxLength="255" />
+          <Property Name="Cost Center Code" Type="nvarchar" MaxLength="50" />
+          <Property Name="Approver" Type="nvarchar" MaxLength="50" />
+          <Property Name="Role" Type="nvarchar" MaxLength="50" />
+          <Property Name="Resource Name" Type="nvarchar" MaxLength="50" />
+          <Property Name="Location" Type="nvarchar" MaxLength="50" />
+          <Property Name="28-Jan-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="4-Feb-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="11-Feb-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="18-Feb-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="25-Feb-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="4-Mar-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="11-Mar-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="18-Mar-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="25-Mar-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="1-Apr-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="8-Apr-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="15-Apr-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="22-Apr-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="29-Apr-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="6-May-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="13-May-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="20-May-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="27-May-19" Type="nvarchar" MaxLength="50" />
+          <Property Name="Days" Type="nvarchar" MaxLength="50" />
+          <Property Name="Rate/Day" Type="nvarchar" MaxLength="50" />
+          <Property Name="Cost" Type="nvarchar" MaxLength="50" />
+        </EntityType>-->
+  <Function Name="ActDec_18" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" StoreFunctionName="ActDec-18">
+    <Parameter Name="SV_SalaryId" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="ActFeb_19" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" StoreFunctionName="ActFeb-19">
+    <Parameter Name="SV_SalaryId" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="ActJan_19" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" StoreFunctionName="ActJan-19">
+    <Parameter Name="SV_SalaryId" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="ActMar_19" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" StoreFunctionName="ActMar-19">
+    <Parameter Name="SV_SalaryId" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="ActNov_18" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" StoreFunctionName="ActNov-18">
+    <Parameter Name="SV_SalaryId" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="ForcFeb_19" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" StoreFunctionName="ForcFeb-19">
+    <Parameter Name="SV_SalaryId" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="ForcJan_19" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" StoreFunctionName="ForcJan-19">
+    <Parameter Name="SV_SalaryId" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="ForcMar_19" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" StoreFunctionName="ForcMar-19">
+    <Parameter Name="SV_SalaryId" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="SummaryFA" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="EffortEstModelStoreContainer" />
+</Schema>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EffortEstModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="EffortEstEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="ActDec_18" ReturnType="Collection(EffortEstModel.ActDec_18_Result)">
+      <Parameter Name="SV_SalaryId" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="ActFeb_19" ReturnType="Collection(EffortEstModel.ActFeb_19_Result)">
+      <Parameter Name="SV_SalaryId" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="ActJan_19" ReturnType="Collection(EffortEstModel.ActJan_19_Result)">
+      <Parameter Name="SV_SalaryId" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="ActMar_19" ReturnType="Collection(EffortEstModel.ActMar_19_Result)">
+      <Parameter Name="SV_SalaryId" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="ActNov_18" ReturnType="Collection(EffortEstModel.ActNov_18_Result)">
+      <Parameter Name="SV_SalaryId" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="ForcFeb_19" ReturnType="Collection(String)">
+      <Parameter Name="SV_SalaryId" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="ForcJan_19" ReturnType="Collection(String)">
+      <Parameter Name="SV_SalaryId" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="ForcMar_19" ReturnType="Collection(String)">
+      <Parameter Name="SV_SalaryId" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SummaryFA" ReturnType="Collection(EffortEstModel.SummaryFA_Result)" />
+  </EntityContainer>
+  <ComplexType Name="ActDec_18_Result">
+    <Property Type="Decimal" Name="Effort11" Nullable="false" Precision="38" Scale="0" />
+    <Property Type="String" Name="blank" Nullable="false" MaxLength="1" />
+  </ComplexType>
+  <ComplexType Name="ActFeb_19_Result">
+    <Property Type="Decimal" Name="Effort11" Nullable="false" Precision="38" Scale="0" />
+    <Property Type="String" Name="blank" Nullable="false" MaxLength="1" />
+  </ComplexType>
+  <ComplexType Name="ActJan_19_Result">
+    <Property Type="Decimal" Name="Effort11" Nullable="false" Precision="38" Scale="0" />
+    <Property Type="String" Name="blank" Nullable="false" MaxLength="1" />
+  </ComplexType>
+  <ComplexType Name="ActMar_19_Result">
+    <Property Type="Decimal" Name="Effort11" Nullable="false" Precision="38" Scale="0" />
+    <Property Type="String" Name="blank" Nullable="false" MaxLength="1" />
+  </ComplexType>
+  <ComplexType Name="ActNov_18_Result">
+    <Property Type="Decimal" Name="Effort11" Nullable="false" Precision="38" Scale="0" />
+    <Property Type="String" Name="blank" Nullable="false" MaxLength="1" />
+  </ComplexType>
+  <ComplexType Name="SummaryFA_Result">
+    <Property Type="String" Name="SalaryID" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Tribe" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="PRCode" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Description" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="ProjectName" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="ProjectCostCentre" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Date" Nullable="true" MaxLength="50" />
+  </ComplexType>
+</Schema>

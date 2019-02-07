@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EffortEstimation", "EffortEstimation\EffortEstimation.csproj", "{F44D6F6B-68C2-436E-B7AE-75AC3B40CC71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EffortEstimationExcelEngine", "EffortEstimationExcelEngine\EffortEstimationExcelEngine.csproj", "{0B4D2D37-C228-4B0F-B696-2640F09F5083}"
+EndProject
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "EffortSetup", "EffortSetup\EffortSetup.wixproj", "{CCE5202A-86A2-427E-A0CF-1429090C0674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F44D6F6B-68C2-436E-B7AE-75AC3B40CC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44D6F6B-68C2-436E-B7AE-75AC3B40CC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44D6F6B-68C2-436E-B7AE-75AC3B40CC71}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F44D6F6B-68C2-436E-B7AE-75AC3B40CC71}.Debug|x86.Build.0 = Debug|Any CPU
+		{F44D6F6B-68C2-436E-B7AE-75AC3B40CC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44D6F6B-68C2-436E-B7AE-75AC3B40CC71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44D6F6B-68C2-436E-B7AE-75AC3B40CC71}.Release|x86.ActiveCfg = Release|Any CPU
+		{F44D6F6B-68C2-436E-B7AE-75AC3B40CC71}.Release|x86.Build.0 = Release|Any CPU
+		{0B4D2D37-C228-4B0F-B696-2640F09F5083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4D2D37-C228-4B0F-B696-2640F09F5083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4D2D37-C228-4B0F-B696-2640F09F5083}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0B4D2D37-C228-4B0F-B696-2640F09F5083}.Debug|x86.Build.0 = Debug|Any CPU
+		{0B4D2D37-C228-4B0F-B696-2640F09F5083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4D2D37-C228-4B0F-B696-2640F09F5083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B4D2D37-C228-4B0F-B696-2640F09F5083}.Release|x86.ActiveCfg = Release|Any CPU
+		{0B4D2D37-C228-4B0F-B696-2640F09F5083}.Release|x86.Build.0 = Release|Any CPU
+		{CCE5202A-86A2-427E-A0CF-1429090C0674}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CCE5202A-86A2-427E-A0CF-1429090C0674}.Debug|x86.ActiveCfg = Debug|x86
+		{CCE5202A-86A2-427E-A0CF-1429090C0674}.Debug|x86.Build.0 = Debug|x86
+		{CCE5202A-86A2-427E-A0CF-1429090C0674}.Release|Any CPU.ActiveCfg = Release|x86
+		{CCE5202A-86A2-427E-A0CF-1429090C0674}.Release|x86.ActiveCfg = Release|x86
+		{CCE5202A-86A2-427E-A0CF-1429090C0674}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB82D928-9078-48D0-9068-351EF9256775}
+	EndGlobalSection
+EndGlobal
